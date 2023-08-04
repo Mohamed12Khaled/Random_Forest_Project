@@ -1,5 +1,5 @@
 # Random_Forest_Project
-Working with excel files and using random forest to predict some answers.
+Working with excel files and using Sklearn ,random forest to predict some answers.
 Using heart disease csv file to train the model from it.
 Then we split the data intoo train and predict.
 Then we use RandomForest to train the model.
